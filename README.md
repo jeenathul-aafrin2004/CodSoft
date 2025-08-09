@@ -1,0 +1,1 @@
+Designed and developed a responsive landing page using HTML and CSS, featuring a clean layout, engaging visuals, and optimized structure to provide a smooth and appealing user experience across devices.
